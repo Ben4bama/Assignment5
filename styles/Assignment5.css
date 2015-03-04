@@ -1,0 +1,7 @@
+section.section1 {background-color: #1E6B52; width: 600px; color: white; visibility: hidden; position: fixed;}
+
+section.section2 {background-color: #F4C300; width: 600px; color: #1E6B52; visibility: hidden; position: fixed;}
+
+img {position: absolute; width: auto;}
+
+footer {position: fixed; bottom: 0px;}
